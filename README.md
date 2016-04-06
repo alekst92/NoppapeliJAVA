@@ -1,3 +1,3 @@
 # NoppapeliJAVA
-Tekstipohjainen
+Tekstipohjainen,
 hyödynnetty luokkia
